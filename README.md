@@ -22,7 +22,7 @@ This repository contains code, datasets, and experiments for analyzing cross-spa
 
 1. Start with the KITTI Sequence 00 ground truth (`00.txt`) and GPS measurements (`gps_positions.csv`).
 2. Generate spoofed GPS trajectories using `gps_spoof.ipynb`, producing `new_traj_0_2.csv`.
-3. Run A-LOAM with SlamSpoof to obtain:
+3. Run A-LOAM with SlamSpoof (https://github.com/Keio-CSG/slamspoof) to obtain:
 
    * `normal_traj.txt`
    * `spoofed_traj.txt`
