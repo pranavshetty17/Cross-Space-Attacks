@@ -17,7 +17,6 @@ This repository contains code, datasets, and experiments for analyzing cross-spa
 | `spoofed_traj_transformed.csv` | Transformed spoofed LiDAR trajectory.                                                                             |
 | `ESKF.m`                       | Error-State Kalman Filter implementation that estimates the vehicle state using LiDAR, GPS, and IMU measurements. |
 | `simultaneous_spoof.ipynb`     | Observation-space vulnerability analysis for LiDAR spoofing attacks.                                              |
-| `README.md`                    | Repository documentation.                                                                                         |
 
 ## Data Processing Pipeline
 
