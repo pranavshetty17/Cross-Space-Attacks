@@ -30,6 +30,12 @@ This repository contains code, datasets, and experiments for analyzing cross-spa
 5. Use the transformed trajectories together with IMU measurements in `ESKF.m` for state estimation.
 6. Perform observation-space vulnerability analysis using `simultaneous_spoof.ipynb`.
 
+## Disclaimer
+
+This repository is **not affiliated with or maintained by the authors of SLAMSpoof**. We do **not** claim ownership of the SLAMSpoof framework or its source code.
+
+Our work uses **SLAMSpoof** (https://github.com/Keio-CSG/slamspoof) solely as a research tool to perform the experiments and analyses presented in our paper. All credit for the implementation and development of SLAMSpoof belongs to its original authors.
+
 ## Notes
 
 * The experiments are based on KITTI Sequence 00.
