@@ -1,6 +1,6 @@
 # Cross Space Attacks
 
-This repository contains code, datasets, and experiments for analyzing cross-space attacks involving GPS spoofing and LiDAR spoofing using the KITTI dataset.
+This repository contains code, datasets, and experiments for analyzing cross-space attacks involving GPS spoofing and LiDAR spoofing using the [KITTI dataset](https://www.cvlibs.net/datasets/kitti/eval_odometry.php).
 
 ## Repository Structure
 
